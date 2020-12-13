@@ -1,0 +1,26 @@
+[
+    {
+        "payment": "1005",
+        "date_pay": "2020\/12\/10 01:49:17pm",
+        "buyer": "liadas",
+        "transaction_code": "TSC134917-1904260982"
+    },
+    {
+        "payment": "1005",
+        "date_pay": "2020\/12\/10 01:49:43pm",
+        "buyer": "liadas",
+        "transaction_code": "TSC134943-2099192268"
+    },
+    {
+        "payment": "30080",
+        "date_pay": "2020\/12\/10 01:50:09pm",
+        "buyer": "liadas",
+        "transaction_code": "TSC135009-1065422695"
+    },
+    {
+        "payment": "103041",
+        "date_pay": "2020\/12\/10 01:55:46pm",
+        "buyer": null,
+        "transaction_code": "TSC135546-1263350361"
+    }
+]

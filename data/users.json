@@ -1,0 +1,14 @@
+[
+    {
+        "fullname": "liadas",
+        "username": "liadas",
+        "password": "$2y$10$GLDpdcQjvymsIDpiDuRHU.dWPDGKMOQ0wI6fjYbbF1p6wVbFu5CPG",
+        "isAdmin": false
+    },
+    {
+        "fullname": "ladiass",
+        "username": "ladiass",
+        "password": "$2y$10$GLDpdcQjvymsIDpiDuRHU.dWPDGKMOQ0wI6fjYbbF1p6wVbFu5CPG",
+        "isAdmin": true
+    }
+]
